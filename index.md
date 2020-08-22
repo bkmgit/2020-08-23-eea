@@ -471,6 +471,8 @@ please preview your site before committing, and make sure to run
         </p>
         <p>
           Others editors that you can use are
+          <a href="https://code.visualstudio.com/">Visual Studio Code</a>,
+          <a href="https://github.com/atom/atom">Atom</a>,
           <a href="https://notepad-plus-plus.org/">Notepad++</a> or
           <a href="https://www.sublimetext.com/">Sublime Text</a>.
           <strong>Be aware that you must
@@ -487,6 +489,9 @@ please preview your site before committing, and make sure to run
         </p>
         <p>
           Others editors that you can use are
+          <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>,
+          <a href="https://code.visualstudio.com/">Visual Studio Code</a>,
+          <a href="https://github.com/atom/atom">Atom</a>,
           <a href="https://www.barebones.com/products/bbedit/">BBEdit</a> or
           <a href="https://www.sublimetext.com/">Sublime Text</a>.
         </p>
@@ -499,6 +504,9 @@ please preview your site before committing, and make sure to run
         <p>
           Others editors that you can use are
           <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>,
+          <a href="https://code.visualstudio.com/">Visual Studio Code</a>,
+          <a href="https://www.gnu.org/software/emacs/">Emacs</a>,
+          <a href="https://github.com/atom/atom">Atom</a>,
           <a href="https://kate-editor.org/">Kate</a> or
           <a href="https://www.sublimetext.com/">Sublime Text</a>.
         </p>
